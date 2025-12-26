@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/parth-secret-santa/static/css/main.b3371b8b.css",
+    "main.js": "/parth-secret-santa/static/js/main.56208571.js",
+    "static/js/453.20359781.chunk.js": "/parth-secret-santa/static/js/453.20359781.chunk.js",
+    "index.html": "/parth-secret-santa/index.html",
+    "main.b3371b8b.css.map": "/parth-secret-santa/static/css/main.b3371b8b.css.map",
+    "main.56208571.js.map": "/parth-secret-santa/static/js/main.56208571.js.map",
+    "453.20359781.chunk.js.map": "/parth-secret-santa/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3371b8b.css",
+    "static/js/main.56208571.js"
+  ]
+}
